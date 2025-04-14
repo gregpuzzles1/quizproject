@@ -1,0 +1,30 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+
+# macOS and Linux files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# IDE/project settings
+.vscode/
+.idea/
+
+# Output files
+*.out
+*.exe
+*.o
+
+# Secret files
+*.env
+secrets.txt
