@@ -2,7 +2,7 @@
 My first Django project.
 
 Project Tree:
-.
+....
 ├── .gitignore
 ├── README.md
 ├── db.sqlite3
@@ -32,4 +32,4 @@ Project Tree:
     ├── asgi.py
     ├── settings.py
     ├── urls.py
-    └── wsgi.py
+    └── wsgi.py...
