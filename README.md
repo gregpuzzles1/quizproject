@@ -59,7 +59,7 @@ This repository is released under the MIT License.
 
 ---
 
-*This is my first Danjo project—feedback and suggestions are appreciated!*
+*This is my first Django project—feedback and suggestions are appreciated!*
 Project Tree:
 ```.
 ├── .gitignore
