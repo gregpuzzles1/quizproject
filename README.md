@@ -1,6 +1,6 @@
-# Danjo Project
+# Django Project
 
-Welcome to the Danjo project! This repository is part of my "quizproject" and is my first implementation of a Danjo (Django) application.
+Welcome to the Danjo project! This repository is part of my "quizproject" and is my first implementation of a Django application.
 
 ## Overview
 
